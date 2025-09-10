@@ -27,9 +27,10 @@ Customer account information – how long they’ve been a customer, contract, p
 Demographic info about customers – gender, age range, and if they have partners and dependents
 
 # Libriaries used :
-Python 
-sklearn
-numpy
-dataframe
-matplotlib.pyplot
-seaborn
+
+**Python** 
+**sklearn**
+**numpy**
+**dataframe**
+**matplotlib.pyplot**
+**seaborn**
