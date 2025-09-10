@@ -30,12 +30,12 @@ Demographic info about customers – gender, age range, and if they have partner
 
 **Python** 
 
-**sklearn**
+**Sklearn**
 
-**numpy**
+**Numpy**
 
-**dataframe**
+**DataFrame**
 
-**matplotlib.pyplot**
+**Matplotlib.pyplot**
 
-**seaborn**
+**Seaborn**
