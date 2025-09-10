@@ -29,8 +29,13 @@ Demographic info about customers – gender, age range, and if they have partner
 # Libriaries used :
 
 **Python** 
+
 **sklearn**
+
 **numpy**
+
 **dataframe**
+
 **matplotlib.pyplot**
+
 **seaborn**
