@@ -28,12 +28,13 @@ Services that each customer has signed up for – phone, multiple lines, interne
 Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
 Demographic info about customers – gender, age range, and if they have partners and dependents
 
-## Libraries Used : 
+## Libraries Used :
 
-- [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)  
-- [![Pandas](https://img.shields.io/badge/Pandas-DataFrame-green)](https://pandas.pydata.org/)  
-- [![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-orange)](https://numpy.org/)  
-- [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-red)](https://scikit-learn.org/)  
-- [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-yellow)](https://matplotlib.org/)  
-- [![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-lightblue)](https://seaborn.pydata.org/)  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+- ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)  
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)  
+- ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=seaborn&logoColor=white)
+
 
