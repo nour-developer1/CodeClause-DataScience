@@ -28,16 +28,12 @@ Services that each customer has signed up for – phone, multiple lines, interne
 Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
 Demographic info about customers – gender, age range, and if they have partners and dependents
 
-# Libriaries used :
+## Libraries Used : 
 
-**Python** 
+- [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)  
+- [![Pandas](https://img.shields.io/badge/Pandas-DataFrame-green)](https://pandas.pydata.org/)  
+- [![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-orange)](https://numpy.org/)  
+- [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-red)](https://scikit-learn.org/)  
+- [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-yellow)](https://matplotlib.org/)  
+- [![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-lightblue)](https://seaborn.pydata.org/)  
 
-**Sklearn**
-
-**Numpy**
-
-**DataFrame**
-
-**Matplotlib.pyplot**
-
-**Seaborn**
