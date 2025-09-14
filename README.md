@@ -1,5 +1,5 @@
 # CodeClause-DataScience
-A repo for my project as a Data Scienti 
+A repo for my project as a Data Scientist 
 # Project Telcom-Customer-Chrun 
 I worked on 
  Explore and analyze the telecom dataset to understand customer behavior.
